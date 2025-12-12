@@ -1,0 +1,12 @@
+torch
+torchvision
+opencv-python
+pandas
+numpy
+scikit-learn
+diffusers       # For Stable Diffusion
+transformers    # Helper for diffusers
+accelerate
+onnx            # For Edge Optimization
+onnxruntime     # For Edge Optimization
+kaggle          # To download data
